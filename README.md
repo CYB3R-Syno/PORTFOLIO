@@ -3,13 +3,11 @@ This is a portfolio site that I created.
 
 The sauce can be used publicly, and when using it, make by should be left on the bottom.
 
-/-----------------------------------------------------------------------------------------------------------------/
-
+<hr/>
 Language used : node.js
 
 Production Period : 3달
-
-/-----------------------------------------------------------------------------------------------------------------/
+<hr/>
 
 It was produced in node.js and hosted through heroku.
 
