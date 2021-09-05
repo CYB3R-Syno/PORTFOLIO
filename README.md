@@ -13,9 +13,9 @@ It was produced in node.js and hosted through heroku.
 
 The files on github will be updated continuously, and anyone can use them as an open source.
 
-However, we would appreciate it if you could leave the bottom "website design with by X3eRo0" as is.
+However, we would appreciate it if you could leave the bottom "website design with by Syno" as is.
 
-
+<hr/>
 Heroku Hosting Method
 1. heroku login
 2. heroku git:clone -a filename
