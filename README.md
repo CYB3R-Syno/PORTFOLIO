@@ -17,9 +17,15 @@ However, we would appreciate it if you could leave the bottom "website design wi
 
 <hr/>
 Heroku Hosting Method
+
 1. heroku login
+
 2. heroku git:clone -a filename
+
 3. cd filename
+
 4. git add .
+
 5. git commit -am "make it better"
+
 6. git push heroku master
